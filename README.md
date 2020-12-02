@@ -7,7 +7,7 @@ Freedom is a very simple ruby web application framework.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'freedom'
+gem 'ruby-freedom'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install freedom
+    $ gem install ruby-freedom
 
 ## Usage
 
