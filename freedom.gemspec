@@ -1,7 +1,7 @@
 require_relative "lib/freedom/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "freedom"
+  spec.name          = "ruby-freedom"
   spec.version       = Freedom::VERSION
   spec.authors       = ["unagiootoro"]
   spec.email         = ["ootoro838861@outlook.jp"]
